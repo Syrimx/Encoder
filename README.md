@@ -11,4 +11,4 @@ At the moment there are three encoding schemas implemented.
 * URL Encoding -> -m 'url'
 
 ## Quickstart
-![Example](Media/example.png)
+![Example](media/example.png)
