@@ -1,6 +1,7 @@
 # Encoder
 
-Welcome to 'Encoder' a simple tool for encoding strings passed by piping, into the specified encoding format.
+Welcome to 'Encoder'!
+A simple tool for encoding strings into the specified format.
 
 At the moment there are three encoding schemas implemented.
 
